@@ -1,0 +1,4 @@
+#Fri Dec 14 22:56:09 GMT 2018
+base.0=C\:\\projects\\heat_app\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
