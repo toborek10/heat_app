@@ -1,5 +1,7 @@
 <template>
-  <p>home</p>
+  <div class='v-home'>
+    <p>home</p>
+  </div>
 </template>
 
 <script>
@@ -12,5 +14,5 @@
 
 <style lang="sass">
   .v-home
-  
+
 </style>
